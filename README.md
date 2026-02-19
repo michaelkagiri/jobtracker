@@ -2,9 +2,6 @@
 
 A full-stack job application tracking system built with Next.js, featuring a Kanban board interface for managing your job search. This project is part of a YouTube tutorial series where you'll learn how to build this application step by step.
 
-## 🎥 Tutorial
-
-This project accompanies a YouTube tutorial series. Follow along to learn how to build a complete job application tracker with authentication, drag-and-drop functionality, and real-time updates.
 
 ## 🛠️ Tech Stack
 
